@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677875958966",
+    "project_id": "starbucksmembershipapp",
+    "storage_bucket": "starbucksmembershipapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677875958966:android:e6fcf94d2fe177e25f5217",
+        "android_client_info": {
+          "package_name": "com.example.starbucksmembershipapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQm7A8a2MvK-0VC2qz3-ua4R8Fb44S3_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Starbucks Membership</string>
+
+    <string name="welcome_title">Starbucks® Rewards</string>
+    <string name="welcome_subtitle">Nikmati kopi gratis, penawaran spesial, dan banyak lagi. Mari bergabung.</string>
+    <string name="join_now">Gabung Sekarang</string>
+    <string name="sign_in">Masuk</string>
+
+    <string name="create_account">Buat Akun</string>
+    <string name="email_hint">Alamat Email</string>
+    <string name="password_hint">Password (min. 6 karakter)</string>
+    <string name="register">Daftar</string>
+    <string name="login_prompt">Sudah punya akun? Masuk</string>
+
+    <string name="sign_in_title">Masuk ke Akun Anda</string>
+    <string name="login">Masuk</string>
+    <string name="register_prompt">Belum punya akun? Gabung sekarang</string>
+
+    <string name="member_card">KARTU MEMBER</string>
+    <string name="star_balance">Saldo Bintang</string>
+    <string name="logout">Keluar</string>
+
+</resources>
